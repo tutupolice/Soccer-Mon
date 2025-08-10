@@ -1,8 +1,5 @@
 # SoccerMon Injury Prediction - ML System (FIXED)
 
-## 🚨 重要更新：过拟合已修复
-
-原始99.53%准确率是**过拟合结果**，现已通过交叉验证获得真实性能指标。
 
 ## 📊 修正后的真实性能
 
